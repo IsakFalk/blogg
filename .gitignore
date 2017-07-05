@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Dson't save output directory
+/output/**
+/output/*
